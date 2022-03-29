@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eburille
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning python
+- 📈 Trying to code for financial markets
 - 📫 How to reach me: enzo_burille@hotmail.com
  
 <!---
